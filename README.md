@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @Soryyn
+- 👋 Hi, I’m @SonoLegit
 - 🌱 I’m currently learning Javascript
